@@ -1,5 +1,5 @@
 {
-    "name": "KapakaiRobot",
+    "name": "kapakaiRobot",
     "description": "Servo controls for Kapakai robot",
     "dependencies": {
         "core": "*",
