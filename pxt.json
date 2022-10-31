@@ -1,5 +1,5 @@
 {
-    "name": "pca9685-TeisRobotics",
+    "name": "pca9685-KapakaiRobotics",
     "description": "",
     "dependencies": {
         "core": "*",
