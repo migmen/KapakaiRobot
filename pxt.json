@@ -1,6 +1,6 @@
 {
     "name": "pca9685-KapakaiRobotics",
-    "description": "",
+    "description": "Servo controls for Kapakai robot",
     "dependencies": {
         "core": "*",
         "radio": "*",
