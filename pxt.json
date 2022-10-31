@@ -1,11 +1,12 @@
 {
-    "name": "pca9685-KapakaiRobotics",
+    "name": "KapakaiRobotics",
     "description": "Servo controls for Kapakai robot",
     "dependencies": {
         "core": "*",
         "radio": "*",
         "microphone": "*",
         "pxt-pca9685": "github:jdarling/pxt-pca9685#v0.0.5"
+        "pxt-sonar": "github:microsoft/pxt-sonar#v0.0.5"
     },
     "files": [
         "main.blocks",
